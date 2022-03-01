@@ -1,0 +1,31 @@
+segment_sources:
+  P7FD490B4:
+    type: origin_type
+    relation: translation
+    language: en
+  P9430E2CF:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c0f76ab0776b408b9f288b6424898fb4:
+    P7FD490B4: ec14e75326374a5a9b747c3367cb38aa
+    P9430E2CF: fe5bf0d6dd78484fb2d8d79ae52d299d
+  8f63619741e848a38518b0660475c772:
+    P7FD490B4: d9c4cb47d1d74acc81d0b69a20810449
+    P9430E2CF: 748f0492fcb34e8b9bdfc05f0e5c0553
+  838931fde17b474999339897f39e0713:
+    P7FD490B4: d9ed2f96bdff4a429f9d08834895b793
+    P9430E2CF: 459ec76eb9d940ad9d9012bec6dac9ff
+  9e617464a5d94925b57eb893e82f7493:
+    P7FD490B4: c4e4b9b771324950bb58f01558246133
+    P9430E2CF: 90c2cfedb87c4cd4be0a6d2c02f93ac8
+  7449294f9bb1489dac1cc22bd60a0b62:
+    P7FD490B4: 5366fc62330f4bd0bb8316ec0f6b60ed
+    P9430E2CF: 7ba0adae4b6546a7bed09de5e43adb28
+  cc25863c23ab4fc39d591f63f4c635a4:
+    P7FD490B4: 3bf39e9ddb54466590a4c7baf03ca11d
+    P9430E2CF: 64203be1ea9e4cef98fca9f9a9c09adf
+  e86c91e6eb1b4577831a946c57a6a543:
+    P7FD490B4: 2ee0910053c048d087f172d60c3151a8
+    P9430E2CF: 45c0488457844d1e93376ea92f885c0f
